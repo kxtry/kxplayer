@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.kxtry.player"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.kxtry.player"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.kxtry.player"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.kxtry.player"
+        }
+    },
+    "dependent_plugins": {}
+}
