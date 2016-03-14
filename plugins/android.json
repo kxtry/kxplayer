@@ -18,6 +18,9 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "org.kxtry.player"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.kxtry.player"
         }
     },
     "dependent_plugins": {}
