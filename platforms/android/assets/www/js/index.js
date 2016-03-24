@@ -34,6 +34,9 @@ var app = {
         document.getElementById('btnphotoget').addEventListener('click', function(){
             app.getPhoto(pictureSource.PHOTOLIBRARY);
         });
+        document.getElementById('btnscroll').addEventListener('click', function(){
+                    window.location = "http://aixuefo.com/test/index.html";
+                });
         document.getElementById('btnphotoalbum').addEventListener('click', function(){
             app.getPhoto(pictureSource.SAVEDPHOTOALBUM);
         });
