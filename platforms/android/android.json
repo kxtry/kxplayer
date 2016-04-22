@@ -57,19 +57,19 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "org.kxtry.player"
+            "PACKAGE_NAME": "org.kxtry.hfive"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "org.kxtry.player"
+            "PACKAGE_NAME": "org.kxtry.hfive"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "org.kxtry.player"
+            "PACKAGE_NAME": "org.kxtry.hfive"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "org.kxtry.player"
+            "PACKAGE_NAME": "org.kxtry.hfive"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "org.kxtry.player"
+            "PACKAGE_NAME": "org.kxtry.hfive"
         }
     },
     "dependent_plugins": {},
